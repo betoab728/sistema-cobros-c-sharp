@@ -1,0 +1,9 @@
+C:\Users\ELIAS\source\repos\Agente\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\ELIAS\source\repos\Agente\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\ELIAS\source\repos\Agente\Interfaces\bin\Debug\Entidades.dll
+C:\Users\ELIAS\source\repos\Agente\Interfaces\bin\Debug\Entidades.pdb
+C:\Users\ELIAS\source\repos\Agente\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\ELIAS\source\repos\Agente\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\ELIAS\source\repos\Agente\Interfaces\obj\Debug\Interfaces.csproj.CopyComplete
+C:\Users\ELIAS\source\repos\Agente\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\ELIAS\source\repos\Agente\Interfaces\obj\Debug\Interfaces.pdb

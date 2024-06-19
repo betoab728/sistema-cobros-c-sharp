@@ -1,0 +1,6 @@
+C:\Users\ELIAS\source\repos\Agente\Entidades\bin\Release\Entidades.dll
+C:\Users\ELIAS\source\repos\Agente\Entidades\bin\Release\Entidades.pdb
+C:\Users\ELIAS\source\repos\Agente\Entidades\obj\Release\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ELIAS\source\repos\Agente\Entidades\obj\Release\Entidades.dll
+C:\Users\ELIAS\source\repos\Agente\Entidades\obj\Release\Entidades.pdb
+C:\Users\ELIAS\source\repos\Agente\Entidades\obj\Release\Entidades.csprojAssemblyReference.cache
